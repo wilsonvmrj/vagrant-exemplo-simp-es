@@ -33,7 +33,7 @@ $vagrant ssh db
 ```
 - Acessando o firewall
 ```
-$vagrant ssh db
+$vagrant ssh firewall
 ```
 
 ## Observacoes gerais. 
